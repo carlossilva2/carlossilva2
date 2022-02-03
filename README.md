@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Angular & RxJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/carlossilva2/](https://github.com/carlossilva2/)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/carlossilva2/) (for now 😁)
 
 - 💬 Ask me about **Python 🐍**
 
-- 📫 How to reach me **carlos.miguel.silva@protonmail.com**
+- 📫 How to reach me **[here](mailto:carlos.miguel.silva@protonmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
